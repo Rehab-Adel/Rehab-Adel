@@ -7,7 +7,7 @@
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehab-Adel&label=Profile%20views&color=0e75b6&style=flat" alt="Rehab-Adely" /> </p>
 
-- 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/Rehab-Adel/Frontend-Mentor-Challenges)
+- 🔭 I’m currently working on [Challenges in the frontend mentor](https://github.com/Rehab-Adel/Frontend-Mentor-Challenges)
 
 - 🌱 I’m currently learning **JS**
 
