@@ -1,5 +1,5 @@
-## Hi 👋, I'm Rehab
-# A passionate learner, embracing growth every single day.
+# Hi 👋, I'm Rehab
+## A passionate learner, embracing growth every single day.
 
 <br>
 
