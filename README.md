@@ -3,7 +3,7 @@
 
 <br>
 
-<img margin-top = "30px" width ="500" height ="250" align="right" alt="code" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat coding GIF">
+<img margin-top = "30px" width ="350" height ="150" align="right" alt="code" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat coding GIF">
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehab-Adel&label=Profile%20views&color=0e75b6&style=flat" alt="Rehab-Adely" /> </p>
 
