@@ -3,11 +3,12 @@
 
 <br>
 
-<img margin-top = "30px" width ="350" height ="150" align="right" alt="code" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat coding GIF">
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehab-Adel&label=Profile%20views&color=0e75b6&style=flat" alt="Rehab-Adely" /> </p>
 
 - 🔭 I’m currently working on [Challenges in the frontend mentor](https://github.com/Rehab-Adel/Frontend-Mentor-Challenges)
+
+<img margin-top = "30px" width ="470" height ="210" align="right" alt="code" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="Cat coding GIF">
 
 - 🌱 I’m currently learning **JS**
 
