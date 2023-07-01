@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **rehabadel1212@gmail.com**
 
-- 🔍 Searching for Information skill
-
 - ✨ Hobbies
  
   - 📖 Reading
