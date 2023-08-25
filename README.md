@@ -16,7 +16,7 @@
   - 💡 Problem Solving
  
  <br>
-<p style="font-size:12px"><b>Finally,  Seeking wisdom from the experts! I'm grateful to anyone who can provide guidance on honing my code writing skills or any other professional advice.</b></p>
+<p style="font-size:12px"><b>Grateful to anyone who can provide guidance on honing my code writing skills or any other professional advice.</b></p>
  <hr style=" width:90% height:2px align-align:center">
 
 
