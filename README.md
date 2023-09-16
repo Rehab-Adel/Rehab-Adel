@@ -5,7 +5,7 @@
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeFairyTail&label=Profile%20views&color=0e75b6&style=flat" alt="CodeFairyTail" /> </p>
 
-- 🔭 I’m currently working on **LeetCode Challenges**
+- 🔭 I’m currently working on **LeetCode Challenges** **/** **SQL Practice HackerRank**
 
 
 - 🌱 I’m currently learning **JS**
