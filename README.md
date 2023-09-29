@@ -3,7 +3,7 @@
 <br>
 
           
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeFairyTail&label=Profile%20views&color=0e75b6&style=flat" alt="CodeFairyTail" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehab-Adel&label=Profile%20views&color=0e75b6&style=flat" alt="Rehab-Adel" /> </p>
 
 - 🔭 I’m currently working on **LeetCode Challenges** **/** **SQL Practice HackerRank**
 
@@ -25,9 +25,9 @@
 
 <br>
 
-<p  style="width:100%">&nbsp;<img width="450px"src="https://github-readme-stats.vercel.app/api?username=CodeFairyTail&show_icons=true&locale=en" alt="CodeFairyTail" /></p>
-<p style="width:100%" ><img width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeFairyTail&show_icons=true&locale=en&layout=compact" alt="CodeFairyTail" /></p>
+<p  style="width:100%">&nbsp;<img width="450px"src="https://github-readme-stats.vercel.app/api?username=Rehab-Adel&show_icons=true&locale=en" alt="Rehab-Adel" /></p>
+<p style="width:100%" ><img width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehab-Adel&show_icons=true&locale=en&layout=compact" alt="Rehab-Adell" /></p>
 
 
 
-<p style="width:100%"  ><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeFairyTail&" alt="CodeFairyTail" /></p>
+<p style="width:100%"  ><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehab-Adel&" alt="Rehab-Adel" /></p>
