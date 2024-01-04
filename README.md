@@ -1,4 +1,18 @@
-## A passionate learner, embracing growth every single day.
+<br clear="both">
+
+<div align="center">
+  <img height="450" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"  />
+</div>
+
+###
+
+<h1 align="center">
+    👋 Hi! I'm Rehab..
+</h1>
+<h3 align="center"><b> A passionate learner, embracing growth every single day.</b></h3>
+
+###
+
 
 <br>
 
@@ -7,14 +21,8 @@
 
 
 - 🌱 I’m currently learning **Full Stack ASP .NET Core**
-
-- ✨ **Hobbies**
- 
-  - 📖 Reading
-  - 💡 Problem Solving
  
  <br>
-<p style="font-size:12px"><b>Grateful to anyone who can provide guidance on honing my code writing skills or any other professional advice.</b></p>
  <hr style=" width:90% height:2px align-align:center">
 
 
