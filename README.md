@@ -22,7 +22,6 @@
 
  <hr style=" width:90% height:2px align-align:center">
 
-## Languages and Tools:
 <p align="left"> 
 </p>
 
