@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehab-Adel&label=Profile%20views&color=0e75b6&style=flat" alt="Rehab-Adel" /> </p>
 
-- 🌱 I’m currently learning **Full Stack ASP .NET Core**
+- 🌱 I’m currently learning **Backend .NET**
 
 
  <hr style=" width:90% height:2px align-align:center">
