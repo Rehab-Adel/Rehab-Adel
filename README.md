@@ -3,18 +3,18 @@
    Hi! I'm Rehab..<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 <div align="center">
- <img height="450" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" />
+ <img height="450" src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif" />
 </div>
 
 ###
 
 
-<h6 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=7000&pause=2000&color=AEB2BF&random=false&width=700&lines=A+passionate+learner,+embracing+growth+ervery+single+day." alt="Typing SVG" /></a></h6>
+<h6 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=7000&pause=2000&color=5E4679&random=false&width=700&lines=A+passionate+learner,+embracing+growth+ervery+single+day." alt="Typing SVG" /></a></h6>
 
 ###
 
 
-![Profile views](https://komarev.com/ghpvc/?username=rehab-adel&label=Profile%20views&color=AEB2BF&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=rehab-adel&label=Profile%20views&color=5E4679&style=flat)
 
 - 🔭 Currently learning **Backend .NET**
 - 💬 Ask me about **C#, SQL, EF Core, .NET core API, .NET core MVC**
