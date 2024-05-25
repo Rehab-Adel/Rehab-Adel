@@ -18,9 +18,14 @@
 
 - 🔭 Currently learning **Backend .NET**
 - 💬 Ask me about **C#, SQL, LINQ, EF Core, .NET core API, .NET core MVC, HTML, CSS, JS, BootStrap**
-- 📫 How to reach me: [Email](mailto:rehabadel1212@gmail.com)
+## 🔗 Connect with Me 
+<a href="https://www.linkedin.com/in/rehabadel/" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://x.com/rihab_a_" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-000000?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br>
 
-## Tech Stack
+  
+## 💻 Tech Stack
 ![MS Sql Server](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=oop)&nbsp;
@@ -35,7 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
- <hr style=" width:90% height:1px align-align:center">
 
 
 <p align="left"> 
@@ -43,19 +47,19 @@
 
 <br>
 
+## 📈 GitHub Profile Summary
 <p align="center" style="border: 2px solid #C6538;">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Rehab-Adel&show_icons=true&locale=en" alt="Rehab-Adel" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehab-Adel" alt="Rehab-Adel" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehab-Adel&show_icons=true&locale=en&layout=compact" alt="Rehab-Adel" />
 </p>
 
-<hr style=" width:90% height:1px align-align:center">
-
+<br>
 <p align="left"> 
 </p>
 
 
-## GitHub-Profile-Trophy
+## 🏆 GitHub-Profile-Trophy
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
