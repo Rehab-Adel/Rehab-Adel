@@ -47,7 +47,7 @@
 
 <br>
 
-## 📈 GitHub Profile Summary
+## 📈 Profile Summary
 <p align="center" style="border: 2px solid #C6538;">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Rehab-Adel&show_icons=true&locale=en" alt="Rehab-Adel" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehab-Adel" alt="Rehab-Adel" />
@@ -59,7 +59,7 @@
 </p>
 
 
-## 🏆 GitHub-Profile-Trophy
+## 🏆 Profile Trophy
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
