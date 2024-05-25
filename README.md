@@ -19,16 +19,18 @@
 - 🔭 Currently learning **Backend .NET**
 - 💬 Ask me about **C#, SQL, LINQ, EF Core, .NET core API, .NET core MVC, HTML, CSS, JS, BootStrap**
 ## 🔗 Connect with Me 
-<a href="https://www.linkedin.com/in/rehabadel/" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-<a href="https://x.com/rihab_a_" target="_blank"><img src="https://img.shields.io/badge/-rehab adel-000000?style=for-the-badge&logo=Twitter&logoColor=white"/></a><br>
+<a href="https://www.linkedin.com/in/rehabadel/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-Discord-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://x.com/rihab_a_" target="_blank"><img src="https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/rehab33del" target="_blank"><img src="https://img.shields.io/badge/-facebook-0C70F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 
   
 ## 💻 Tech Stack
-![MS Sql Server](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=oop)&nbsp;
+![MS Sql Server](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![Api](https://img.shields.io/badge/-API-05122A?style=flat&logo=api)&nbsp;
 ![ASP.Net Core MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=mvc)&nbsp;
 ![Design PatternsC](https://img.shields.io/badge/-DesignPatterns-05122A?style=flat&logo=design)&nbsp;
@@ -37,6 +39,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
