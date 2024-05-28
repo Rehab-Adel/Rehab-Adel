@@ -18,7 +18,7 @@
 
 - 🔭 Currently learning **Backend .NET**
 - 💬 Ask me about **C#, SQL, LINQ, EF Core, .NET core API, .NET core MVC, HTML, CSS, JS, BootStrap**
-## 🔗 Connect with Me 
+## 🔗 Connect With Me 
 <a href="https://www.linkedin.com/in/rehabadel/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-Discord-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
