@@ -23,9 +23,7 @@
 <a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-Discord-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href="https://x.com/rihab_a_" target="_blank"><img src="https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://www.facebook.com/rehab33del" target="_blank"><img src="https://img.shields.io/badge/-facebook-0C70F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/rehab_adel" target="_blank"><img src="https://img.shields.io/badge/-hackerrank-05F258?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://leetcode.com/u/rehab_3del/" target="_blank"><img src="https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a><br>
+<a href="https://www.facebook.com/rehab33del" target="_blank"><img src="https://img.shields.io/badge/-facebook-0C70F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 
   
 ## 💻 Tech Stack
