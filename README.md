@@ -22,8 +22,6 @@
 <a href="https://www.linkedin.com/in/rehabadel/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rehabadel1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-DE544B?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/_rehab3del_97303" target="_blank"><img src="https://img.shields.io/badge/-Discord-5C73F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-<a href="https://x.com/rihab_a_" target="_blank"><img src="https://img.shields.io/badge/-twitter-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://www.facebook.com/rehab33del" target="_blank"><img src="https://img.shields.io/badge/-facebook-0C70F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 
   
 ## 💻 Tech Stack
