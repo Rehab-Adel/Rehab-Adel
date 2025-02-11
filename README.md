@@ -51,7 +51,6 @@
 ## 📈 Profile Summary
 <p align="center" style="border: 2px solid #C6538;">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Rehab-Adel&show_icons=true&locale=en" alt="Rehab-Adel" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehab-Adel" alt="Rehab-Adel" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehab-Adel&show_icons=true&locale=en&layout=compact" alt="Rehab-Adel" />
 </p>
 
